@@ -1,7 +1,7 @@
 | Index | Problem | Difficulty | Solved |
 | --- | --- | --- | --- |
 | 1 | [Cards](https://codeforces.com/problemset/problem/1220/A) | 600 | YES |
-| 2 | [Between the Offices](https://codeforces.com/problemset/problem/867/A) | 600 |  |
+| 2 | [Between the Offices](https://codeforces.com/problemset/problem/867/A) | 600 | YES |
 | 3 | [Mahmoud and Ehab and the even-odd game](https://codeforces.com/problemset/problem/959/A) | 600 |  |
 | 4 | [Fafa and his Company](https://codeforces.com/problemset/problem/935/A) | 600 |  |
 | 5 | [Vus the Cossack and a Contest](https://codeforces.com/problemset/problem/1186/A) | 600 |  |
@@ -41,11 +41,11 @@
 | 39 | [Left-handers, Right-handers and Ambidexters](https://codeforces.com/problemset/problem/950/A) | 900 | YES |
 | 40 | [Be Positive](https://codeforces.com/problemset/problem/1130/A) | 900 | YES |
 | 41 | [Sasha and His Trip](https://codeforces.com/problemset/problem/1113/A) | 900 | YES |
-| 42 | [Ropewalkers](https://codeforces.com/problemset/problem/1185/A) | 900 |  |
+| 42 | [Ropewalkers](https://codeforces.com/problemset/problem/1185/A) | 900 | YES |
 | 43 | [Sonya and Hotels](https://codeforces.com/problemset/problem/1004/A) | 900 |  |
 | 44 | [Sushi for Two](https://codeforces.com/problemset/problem/1138/A) | 900 |  |
 | 45 | [Paint the Numbers](https://codeforces.com/problemset/problem/1209/A) | 900 |  |
-| 46 | [XORinacci](https://codeforces.com/problemset/problem/1208/A) | 900 |  |
+| 46 | [XORinacci](https://codeforces.com/problemset/problem/1208/A) | 900 | YES |
 | 47 | [Snowball](https://codeforces.com/problemset/problem/1099/A) | 900 |  |
 | 48 | [Integer Points](https://codeforces.com/problemset/problem/1248/A) | 900 |  |
 | 49 | [Neverending competitions](https://codeforces.com/problemset/problem/765/A) | 900 |  |
