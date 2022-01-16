@@ -46,10 +46,10 @@
 | 44 | [Sushi for Two](https://codeforces.com/problemset/problem/1138/A) | 900 | YES |
 | 45 | [Paint the Numbers](https://codeforces.com/problemset/problem/1209/A) | 900 | YES |
 | 46 | [XORinacci](https://codeforces.com/problemset/problem/1208/A) | 900 | YES |
-| 47 | [Snowball](https://codeforces.com/problemset/problem/1099/A) | 900 |  |
-| 48 | [Integer Points](https://codeforces.com/problemset/problem/1248/A) | 900 |  |
-| 49 | [Neverending competitions](https://codeforces.com/problemset/problem/765/A) | 900 |  |
-| 50 | [A Serial Killer](https://codeforces.com/problemset/problem/776/A) | 900 |  |
+| 47 | [Snowball](https://codeforces.com/problemset/problem/1099/A) | 900 | YES |
+| 48 | [Integer Points](https://codeforces.com/problemset/problem/1248/A) | 900 | YES |
+| 49 | [Neverending competitions](https://codeforces.com/problemset/problem/765/A) | 900 | YES |
+| 50 | [A Serial Killer](https://codeforces.com/problemset/problem/776/A) | 900 | YES |
 | 51 | [Important Exam](https://codeforces.com/problemset/problem/1201/A) | 900 |  |
 | 52 | [The King's Race](https://codeforces.com/problemset/problem/1075/A) | 900 |  |
 | 53 | [Greed](https://codeforces.com/problemset/problem/892/A) | 900 |  |
