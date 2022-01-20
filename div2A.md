@@ -58,11 +58,11 @@
 | 56 | [A Blend of Springtime](https://codeforces.com/problemset/problem/989/A) | 1000 | YES |
 | 57 | [Roman and Browser](https://codeforces.com/problemset/problem/1100/A) | 1000 | YES |
 | 58 | [Protect Sheep](https://codeforces.com/problemset/problem/948/A) | 1000 | YES |
-| 59 | [Ehab Fails to Be Thanos](https://codeforces.com/problemset/problem/1174/A) | 1000 |  |
-| 60 | [Fake NP](https://codeforces.com/problemset/problem/805/A) | 1000 |  |
-| 61 | [Stages](https://codeforces.com/problemset/problem/1011/A) | 1000 |  |
-| 62 | [Circle Metro](https://codeforces.com/problemset/problem/1169/A) | 1000 |  |
-| 63 | [Eating Soup](https://codeforces.com/problemset/problem/1163/A) | 1000 |  |
+| 59 | [Ehab Fails to Be Thanos](https://codeforces.com/problemset/problem/1174/A) | 1000 | YES |
+| 60 | [Fake NP](https://codeforces.com/problemset/problem/805/A) | 1000 | YES |
+| 61 | [Stages](https://codeforces.com/problemset/problem/1011/A) | 1000 | YES |
+| 62 | [Circle Metro](https://codeforces.com/problemset/problem/1169/A) | 1000 | YES |
+| 63 | [Eating Soup](https://codeforces.com/problemset/problem/1163/A) | 1000 | YES |
 | 64 | [Palindrome Dance](https://codeforces.com/problemset/problem/1040/A) | 1000 |  |
 | 65 | [Trip For Meal](https://codeforces.com/problemset/problem/876/A) | 1000 |  |
 | 66 | [The Useless Toy](https://codeforces.com/problemset/problem/834/A) | 1000 |  |
