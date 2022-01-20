@@ -63,9 +63,9 @@
 | 61 | [Stages](https://codeforces.com/problemset/problem/1011/A) | 1000 | YES |
 | 62 | [Circle Metro](https://codeforces.com/problemset/problem/1169/A) | 1000 | YES |
 | 63 | [Eating Soup](https://codeforces.com/problemset/problem/1163/A) | 1000 | YES |
-| 64 | [Palindrome Dance](https://codeforces.com/problemset/problem/1040/A) | 1000 |  |
-| 65 | [Trip For Meal](https://codeforces.com/problemset/problem/876/A) | 1000 |  |
-| 66 | [The Useless Toy](https://codeforces.com/problemset/problem/834/A) | 1000 |  |
+| 64 | [Palindrome Dance](https://codeforces.com/problemset/problem/1040/A) | 1000 | YES |
+| 65 | [Trip For Meal](https://codeforces.com/problemset/problem/876/A) | 1000 | YES |
+| 66 | [The Useless Toy](https://codeforces.com/problemset/problem/834/A) | 1000 | YES |
 | 67 | [Aramic script](https://codeforces.com/problemset/problem/975/A) | 1000 |  |
 | 68 | [Diversity](https://codeforces.com/problemset/problem/844/A) | 1000 |  |
 | 69 | [Beautiful String](https://codeforces.com/problemset/problem/1265/A) | 1000 |  |
